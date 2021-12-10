@@ -1,0 +1,6 @@
+Ryan append( height: 184.3 )
+Andrew append( height: 186.2 )
+Robert append( height: 180.2 )
+
+man_avg: 183.57
+man_std: 183.58
